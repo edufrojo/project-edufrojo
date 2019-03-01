@@ -11,7 +11,7 @@ const session = require('express-session');
 
 // Creamos servidor y configuramos el puerto
 const app = express();
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 8080);
 
 // Habilitamos log.
 app.use(logger('combined'));
