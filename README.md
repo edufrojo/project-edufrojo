@@ -28,7 +28,7 @@ Arrancar servidor:
 npm run start-prod
 ```
 
-Acceder a través del navegador a `localhost:3000`
+Acceder a través del navegador a `localhost:8080`
 
 ## Licencia
 
