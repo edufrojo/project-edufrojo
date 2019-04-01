@@ -29,9 +29,3 @@ npm run start-prod
 ```
 
 Acceder a través del navegador a `localhost:8080`
-
-## Licencia
-
-[![GitHub license](https://img.shields.io/github/license/edufrojo/project-edufrojo.svg)](https://github.com/edufrojo/project-edufrojo/blob/master/LICENSE)
-
-En la medida de lo posible según la ley, [Eduardo Fernández](https://edufrojo.dev) ha renunciado a todos los derechos de autor y derechos conexos o relacionados a este trabajo.
